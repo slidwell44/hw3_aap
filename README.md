@@ -63,5 +63,9 @@ In this very simple project structure template, we've just included a markdown f
 section headings to use for project notes. Expand as desired. Later in the semester we will learn how to
 use Sphinx with restructuredText to write and generate documentation.
 
+#-------------------------------------
 
+In hw3_aap_main.ipynb I create a a tool that can web scrape data and turn that data into a pandas dataframe. Then I do plotting on the data using Plotly, ipywidgets, Bokeh, and seaborn.
+I try to compare the different plotting tools throughout my code and find which one is best overall.
 
+I created the version control in my personal github and did all the pushes through the bash terminal.
